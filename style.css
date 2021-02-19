@@ -1,0 +1,66 @@
+/* sfondo */
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+}
+
+/* contenitore del body */
+.container{
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 5%;
+}
+/* logo e testo */
+.logo{
+  width: 150px;
+  border-spacing: inherit;
+}
+.textlogo{
+  font-size: 30px;
+  color: lime;
+}
+
+/* input navigazione */
+nav{
+  background-color: lime;
+  padding: 5px;
+}
+.text1{
+  width: 50px;
+  background-color: whitesmoke;
+}
+.text2{
+  width: 135px;
+  background-color: whitesmoke;
+}
+.text3{
+  width: 80px;
+  background-color: whitesmoke;
+}
+ /* row */
+.info{
+  text-align: justify;
+  margin-top: 1%;
+}
+.checkbox{
+ width: 8px;
+}
+  /* Colore batteria */
+.Colore-utente1{
+background-color: orange;
+color: orange;
+width: 260px;
+}
+.Colore-utente2{
+background-color: lime;
+color: lime;
+width: 450px;
+}
+.Colore-utente3{
+background-color: brown;
+color: brown;
+width: 130px;
+}
